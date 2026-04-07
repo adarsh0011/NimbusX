@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![GSSoC](https://img.shields.io/badge/GSSoC-2026-orange)
+
 # NimbusX
 
 ### *Simulate. Scale. Optimize.*
@@ -174,6 +179,7 @@ This project is licensed under the MIT License.
 ---
 
 ##  Acknowledgements
+
 
 Inspired by modern cloud platforms and auto-scaling systems used in real-world distributed architectures.
 
